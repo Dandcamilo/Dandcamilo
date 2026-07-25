@@ -50,5 +50,3 @@ Analista de Sistemas com mais de 10 anos de experiência em Saúde Suplementar, 
 Construir soluções robustas, resilientes e orientadas à qualidade de dados, garantindo continuidade operacional e eficiência em ambientes críticos.
 
 ---
-
-Aberto a colaborações em backend, integração de sistemas e engenharia de dados.
